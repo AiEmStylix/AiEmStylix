@@ -16,8 +16,9 @@ I'm into coding since I was about 16 years old. During this time, I became fluen
 
 You can reach me out through my discord: [Stylix#4188](https://discord.com/users/524214566201065473)
 
+![](https://raw.githubusercontent.com/AiEmStylix/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AiEmStylix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AiEmStylix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 
 <br/>
