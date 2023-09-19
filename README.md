@@ -8,7 +8,7 @@ interface AiEmStylix {
 
 I'm 19 years old backend developer. 
 
-I'm into coding since I was about 16 years old. During this time, I became fluent in C++ and JavaScript, became familiar with Python, and tried C#, and Java.
+I'm into coding since I was about 16 years old. During this time, I became fluent in C++ and JavaScript, became familiar with Python, and had tried C#, and Java.
 
 **0.1 + 0.2 != 0.3**
 
