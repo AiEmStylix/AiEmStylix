@@ -1,16 +1,21 @@
-### Hi there 👋
+```ts
+interface AiEmStylix {
+  name: string;
+  age: number;
+  brainCells?: number;
+}
+```
 
-<!--
-**AiEmStylix/AiEmStylix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 19 years old backend developer. 
 
-Here are some ideas to get you started:
+I'm into coding since I was about 16 years old. During this time, I became fluent in C++ and JavaScript, became familiar with Python, and tried C#, and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**0.1 + 0.2 == 0.3**
+
+---
+
+You can reach me out through my discord: [Stylix#4188](https://discord.com/users/524214566201065473)
+
+<br/>
+
+![achievement](https://user-images.githubusercontent.com/79142358/201485976-659bcdc0-75ed-4609-8dc4-7ca4ffd2ff7a.png)
