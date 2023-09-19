@@ -15,6 +15,7 @@ I'm into coding since I was about 16 years old. During this time, I became fluen
 ---
 
 You can reach me out through my discord: [Stylix#4188](https://discord.com/users/524214566201065473)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiEmStylix)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
