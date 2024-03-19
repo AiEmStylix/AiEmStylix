@@ -6,7 +6,7 @@ interface AiEmStylix {
 }
 ```
 
-I'm 19 years old Backend Developer and probably part-time Embedded Developer.
+I'm 19 years old Backend Developer.
 
 I'm into coding since I was about 16 years old. During this time, I became fluent in C++ and JavaScript, became familiar with Python, and had tried C#, and Java.
 
