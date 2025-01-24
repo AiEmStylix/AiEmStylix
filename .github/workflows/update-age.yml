@@ -31,4 +31,7 @@ jobs:
           git config --global user.email '78728283+AiEmStylix@users.noreply.github.com'
           git add .
           git commit -m "Automated age update"
-          git push
+        
+      - name: Push changes
+        run: |
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }} HEAD:main
