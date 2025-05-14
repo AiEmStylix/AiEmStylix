@@ -6,9 +6,11 @@ interface AiEmStylix {
 }
 ```
 
-I'm 20 years old Backend Developer.
+I'm 21 years old Backend Developer.
 
 I'm into coding since I was about 16 years old. During this time, I became fluent in C++ and JavaScript, became familiar with Python, and had tried C#, and Java.
+
+Currently learning to become an AI researcher — exploring machine learning, deep learning, and everything in between.
 
 **0.1 + 0.2 != 0.3**
 
