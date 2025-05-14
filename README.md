@@ -16,7 +16,7 @@ Currently learning to become an AI researcher — exploring machine learning, de
 
 ---
 
-You can reach me out through my discord: <a href="https://discord.com/users/524214566201065473" target="_blank">Stylix#4188</a>
+You can reach me out through my discord: <a href="https://discord.com/users/827751676470886420" target="_blank">stylixuwu</a>
 
 ![](https://raw.githubusercontent.com/AiEmStylix/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AiEmStylix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
